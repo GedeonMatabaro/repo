@@ -1,0 +1,70 @@
+*{
+	box-sizing: border-box;
+	overflow: auto;
+}
+body{
+	width: 1080;
+	margin: 10px;
+	padding: 0;
+	background-color: grey;
+	
+}
+.liste{
+	width: fit-content;
+	height: fit-content;
+}
+.liste a{
+	display: inline-block;
+	list-style: none;
+	font-style: none;
+	font-display: auto;
+	background-color: #116ce0;
+	padding: 8px;
+	width: fit-content;
+	height: fit-content;
+	margin: 10px;
+	border: 2px solid #0c0888;
+	color: #e5e805;
+	align-content: center;
+}
+p{
+ text-decoration-style:solid ;
+}
+
+.corps{
+	background: url("harmoirie.png");
+	background-size: auto;
+	background-blend-mode: saturation;
+	margin-left: 20px;
+	background-repeat: no-repeat;
+	background-position: center;
+	border: 1px solid black;
+	padding: 8px 8px 8px 8px;
+	font-family: serif;
+	text-decoration-style: solid;
+	text-align: justify;
+	width: 800px;
+	position: absolute;
+}
+h1{
+	text-align: center;
+	color: #0a196a;
+	font-style:italic !important;
+	font-weight: bold;
+	font-size: 30px;
+	align-content: space-around;
+
+}
+
+.drapeau{
+	float: left !important;
+	margin: 10px;
+}
+.harmoirie{
+	float: right !important;
+	margin: 10px;
+}
+
+nav{
+
+}
