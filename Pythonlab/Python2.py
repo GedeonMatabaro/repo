@@ -1,6 +1,4 @@
 from pickle import TRUE
-
-
 num=[]
 n=int(input("Ednter the total of numbers to find the hcf: "))
 for k in range(0,n):
