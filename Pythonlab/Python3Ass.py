@@ -7,4 +7,4 @@ s=0
 for i in range(0,n,1):
     s+=(x**i)
 print("the sum of the serie is ",s)
-#thanks
+#thanks 
