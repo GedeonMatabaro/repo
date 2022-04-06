@@ -116,7 +116,7 @@
 //	*/
 //	printf("\nthe two greatest number are %d and %d",numbers[n-2],numbers[n-1]);
 //}
-//@ASS Q2
+//@ASS Q2s
 void main() {
 	char name[50];
 	printf("Enter the name: ");
