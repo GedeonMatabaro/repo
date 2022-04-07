@@ -9,10 +9,8 @@ def binarysearch(A,beg,end,c):
             if(A[mid]==c):
                 return mid
             end=mid-1
-            mid=int((beg+end)/2)
         else:
             beg=mid+1
-            mid=int((beg+end)/2)
         return (binarysearch(A,beg,end,c))
 Size=int(input("Enter the size of the array:"))
 A=array.array('i',range(Size))
