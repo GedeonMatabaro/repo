@@ -56,6 +56,7 @@
 //	}
 //	printf("/nthe great number is %d",k);
 //}
+
 //@Q3
 //void main() {
 //	int *numbers,n, i, k=0;
@@ -77,6 +78,7 @@
 //	}
 //	printf("\nthe small number is %d",k);
 //}
+
 //@ ASS2 Q1
 //write a c program gto read element into an array and find the largest 2 elements
 //void main() {
@@ -116,23 +118,25 @@
 //	*/
 //	printf("\nthe two greatest number are %d and %d",numbers[n-2],numbers[n-1]);
 //}
+
 //@ASS Q2
-void main() {
-	char name[50];
-	printf("Enter the name: ");
-	scanf("%s",name);
-	char copy[50];
-	int i, j=0, k=0;
-  // taking the lenght of the array
-	for (i=1;name[i]!=0;i++){
-		k++;	
-	}
-	for (i=k;i>=0;i--){
-		copy[j]=name[i];
-		j++;
-	}
-	printf("The name is: %s",copy);
-}
+// void main() {
+// 	char name[50];
+// 	printf("Enter the name: ");
+// 	scanf("%s",name);
+// 	char copy[50];
+// 	int i, j=0, k=0;
+//   // taking the lenght of the array
+// 	for (i=1;name[i]!=0;i++){
+// 		k++;	
+// 	}
+// 	for (i=k;i>=0;i--){
+// 		copy[j]=name[i];
+// 		j++;
+// 	}
+// 	printf("The name is: %s",copy);
+// }
+
 //@ASS2 Q3
 //oid main() {
 //	char numbers[50];

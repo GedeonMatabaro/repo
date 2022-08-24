@@ -1,0 +1,33 @@
+1. Learn Python (Google Colab)-> Basis Python
+2.Chhose your domain
+3. Choose any partner, if required (Max 1).
+4. Machine Learning(Implemenation will be shown by me or by student)-> 
+Supervised Learning
+     prediction, Classification, SVM, Decision Tree, Random Forest, ....
+Unsuprervised Learning
+     Clustering(k-mean clustering, partitional clustering...)
+5. Choose the dataset source, or we have to create our own dataset.
+
+20 students (10 groups) -> 10-research project will be assigned
+6. Eve
+
+
+
+Satya Ranjan Dash10:41 PM
+1. Learn Python (Google Colab)-> Basis Python
+2.Chhose your domain
+3. Choose any partner, if required (Max 1).
+4. Machine Learning(Implemenation will be shown by me or by student)-> 
+Supervised Learning
+     prediction, Classification, SVM, Decision Tree, Random Forest, ....
+Unsuprervised Learning
+     Clustering(k-mean clustering, partitional clustering...)
+5. Choose the dataset source, or we have to create our own dataset.
+
+20 students (10 groups) -> 10-research project will be assigned
+6. Eve
+Satya Ranjan Dash10:45 PM
+8. How many are interested in NLP(Find different languages among you)
+034- Birungi Jeanritah Roenah10:49 PM
+Thank you sir
+Is it online sir ?

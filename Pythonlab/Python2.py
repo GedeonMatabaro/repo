@@ -7,9 +7,13 @@ hcf=1
 compt=0
 bo=True
 print("The min is \n",min(num))
+#We cosider the minimum value of the list, then we start dividing by all the integers less than it
+#if the current hcf is divisible by i, we skip it.
 for i in range(min(num),1,-1):
+
     if(hcf%i!=0):
         for j in num:
+            #We only consieder a certain value when it can divide all the elements in the list.
             if(num[compt]%i!=0):
                 bo=False
                 break
